@@ -1,2 +1,3 @@
 # servers_cpp
-selfuse
+selfuse SOP repository
+cpp proccess using net to provide different functions for me
