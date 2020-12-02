@@ -1,0 +1,2 @@
+D:\Users\80303892\gitprojects\servers_cpp\hello_github\Debug\hello_github.exe
+D:\Users\80303892\gitprojects\servers_cpp\hello_github\Debug\hello_github.pdb
