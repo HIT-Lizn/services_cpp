@@ -1,5 +1,0 @@
-#pragma once
-
-#define PARAGRAM_NUMBER 1
-
-#define ERROR_WRONG_PARAGRAM_NUMBER 101
